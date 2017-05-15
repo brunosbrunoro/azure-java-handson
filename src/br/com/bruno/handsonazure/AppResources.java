@@ -1,8 +1,6 @@
 package br.com.bruno.handsonazure;
 
 import javax.ws.rs.*;
-import javax.ws.rs.core.MediaType;
-import javax.ws.rs.core.Response;
 
 /**
  * Created by bruno on 09/05/17.
